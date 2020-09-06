@@ -1,0 +1,11 @@
+[19-Jun-2019 09:33:02 UTC] PHP Fatal error:  Call to undefined method App\Console\Kernel::load() in /home/leadersh/lfzpartner/app/Console/Kernel.php on line 40
+[19-Jun-2019 09:34:01 UTC] PHP Fatal error:  Call to undefined method App\Console\Kernel::load() in /home/leadersh/lfzpartner/app/Console/Kernel.php on line 40
+[19-Jun-2019 09:35:01 UTC] PHP Fatal error:  Call to undefined method App\Console\Kernel::load() in /home/leadersh/lfzpartner/app/Console/Kernel.php on line 40
+[19-Jun-2019 09:36:01 UTC] PHP Fatal error:  Call to undefined method App\Console\Kernel::load() in /home/leadersh/lfzpartner/app/Console/Kernel.php on line 40
+[19-Jun-2019 09:37:01 UTC] PHP Fatal error:  Call to undefined method App\Console\Kernel::load() in /home/leadersh/lfzpartner/app/Console/Kernel.php on line 40
+[01-Jul-2019 09:30:09 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/lfzpartn/public_html/vendor/doctrine/inflector/lib/Doctrine/Common/Inflector/Inflector.php on line 265
+[01-Jul-2019 09:34:52 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/lfzpartn/public_html/vendor/doctrine/inflector/lib/Doctrine/Common/Inflector/Inflector.php on line 265
+[01-Jul-2019 09:34:53 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/lfzpartn/public_html/vendor/doctrine/inflector/lib/Doctrine/Common/Inflector/Inflector.php on line 265
+[01-Jul-2019 09:50:30 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/lfzpartn/public_html/vendor/doctrine/inflector/lib/Doctrine/Common/Inflector/Inflector.php on line 265
+[01-Jul-2019 09:53:32 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/lfzpartn/public_html/vendor/doctrine/inflector/lib/Doctrine/Common/Inflector/Inflector.php on line 265
+[01-Jul-2019 09:53:34 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/lfzpartn/public_html/vendor/doctrine/inflector/lib/Doctrine/Common/Inflector/Inflector.php on line 265
